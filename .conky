@@ -1,0 +1,19 @@
+# Almanacht
+# By Tom Spalding
+# https://github.com/digitalvapor/almanacht
+
+background no
+
+own_window yes
+own_window_type override
+own_window_transparent yes
+
+minimum_size 300 500
+maximum_width 300
+
+alignment tr
+gap_x 35
+gap_y 55
+
+TEXT
+${image ~/projects/almanacht/almanac_2014_San_Francisco_resized.png -p 0,25 -s 300x475}

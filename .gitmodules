@@ -1,0 +1,3 @@
+[submodule "PySkyAlmanac"]
+	path = PySkyAlmanac
+	url = https://github.com/digitalvapor/PySkyAlmanac.git
